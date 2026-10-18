@@ -37,6 +37,12 @@ CI/CD · Automated Testing · Javadoc · Git
 - `assessment-1` - preserved history of the initial development stage
 - `assessment-2` - preserved history of the inherited/brownfield stage
 
+## Live Project Website
+
+View the project website, documentation, test reports and downloadable build:
+
+**[Open the project website](https://abdulfofanah.github.io/Engineering-1-Project/)**
+
 ## My Contributions
 
 My work included Java implementation, object-oriented design and UML
