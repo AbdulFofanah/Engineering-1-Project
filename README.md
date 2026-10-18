@@ -1,4 +1,4 @@
-# Engineering 1 — Java Game Development
+# Engineering 1 - Java Game Development
 
 A two-stage software engineering project completed as part of the University
 of York Engineering 1 module.
@@ -9,7 +9,7 @@ extended an existing codebase.
 
 ## Project Stages
 
-### Assessment 1 — Initial Development
+### Assessment 1 - Initial Development
 Developed the initial implementation using Java and LibGDX, applying
 object-oriented design and UML modelling to translate a product brief into
 a working game.
@@ -17,7 +17,7 @@ a working game.
 To view this stage, select the `assessment-1` branch using the GitHub branch
 selector.
 
-### Assessment 2 — Brownfield Development
+### Assessment 2 - Brownfield Development
 Worked as part of a team to inherit, understand and extend an existing
 LibGDX codebase to satisfy the full product brief.
 
@@ -33,9 +33,9 @@ CI/CD · Automated Testing · Javadoc · Git
 
 ## Repository Structure
 
-- `main` — recruiter-facing version and final project implementation
-- `assessment-1` — preserved history of the initial development stage
-- `assessment-2` — preserved history of the inherited/brownfield stage
+- `main` - recruiter-facing version and final project implementation
+- `assessment-1` - preserved history of the initial development stage
+- `assessment-2` - preserved history of the inherited/brownfield stage
 
 ## My Contributions
 
